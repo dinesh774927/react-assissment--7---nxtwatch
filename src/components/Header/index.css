@@ -1,0 +1,17 @@
+ul {
+  padding: 0px;
+  list-style-type: none;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+
+.menuIcons {
+  margin-right: 10px;
+}
+
+li {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
