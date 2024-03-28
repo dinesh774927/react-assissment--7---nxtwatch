@@ -1,0 +1,18 @@
+.link {
+  text-decoration: none;
+}
+
+.retry {
+  background-color: #4f46e5;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: #ffffff;
+  margin: 20px;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
